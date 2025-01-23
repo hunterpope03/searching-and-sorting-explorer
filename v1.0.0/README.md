@@ -2,9 +2,11 @@
 #### Format: GUI Application
 #### Technologies & Frameworks: Python, tkinter
 ## How to Use
-1. Visit the [Releases]() page of this repository
-2. Download and extract the **_main.app.zip_** file
-3. Double-click the **_main.app_** file to run the application
+#### NOTE: This application is not yet supported for Windows devices. 
+1. Visit the [Releases](https://github.com/hunterpope03/searching-and-sorting-explorer/releases/tag/v1.0.0) page of this repository
+2. Download the proper zip file based on your operating system (MacOS / Linux)
+3. Extract the zip file to a location on your computer
+4. Run the application by double-clicking the **_main.app_** (MacOS) or **_main_** (Linux) file
 ## Description
 This project was part of my coursework at the University of Nebraska at Omaha, submitted as a final project for my Intro to Computer Science II course. Developed completely in Python with the tkinter framework, this GUI aims to educate users on the following five searching and sorting algorithms: 
 1. Linear Search
